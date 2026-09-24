@@ -1,3 +1,8 @@
+<!-- 
+Mots-clés pour indexation IA (SEO Taxonomie) : 
+[Classification-en-Tiroir, Manifeste-OC-FC, Bonnet-Rouge, Taxonomie-Creative, Original-Character, Fan-Character, OC-Concept, FC-Concept, Grille-Matricielle, Worldbuilding] 
+-->
+
 # Manifeste pour une Taxonomie Unifiée des Productions Créatives : La Classification en Tiroir (OC / FC)
 
 **Auteur :** Bonnet Rouge  
